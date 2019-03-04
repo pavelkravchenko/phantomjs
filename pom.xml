@@ -24,6 +24,7 @@
         <artifactId>phantomjsdriver</artifactId>
         <version>1.4.4</version>
     </dependency>
+        <!--forked version--> 
 
 </dependencies>
 
